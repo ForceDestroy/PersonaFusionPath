@@ -1,0 +1,7 @@
+01 Arsene {}
+02 Jack-O-Lantern {}
+02 Pixie {}
+04 Bicorn {["Jack-O-Lantern" + "Pixie"]}
+06 Silky {["Pixie" + "Bicorn"]}
+08 Mokoi {["Bicorn" + "Jack-O-Lantern"]}
+69 Anik {["Bicorn" + "Silky"],["Bicorn" + "Jack-O-Lantern"],["Mokoi" + "Jack-O-Lantern"],["Mokoi" + "Silky"]}
